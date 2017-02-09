@@ -1,0 +1,2 @@
+#config="/usr/local/savdi/savdid.conf"
+#pidfile="/var/run/savdid/savdid.pid"
